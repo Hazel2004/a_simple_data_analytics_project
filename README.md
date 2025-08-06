@@ -5,14 +5,6 @@ This project focuses on end-to-end data analysis, processing, and visualization 
 
 ---
 
-**🗂️ Project Structure:**
-
-├── Project.ipynb        # Jupyter Notebook for Data Processing & EDA
-├── Project.pbix         # Power BI Dashboard File
-└── README.md            # Project Documentation
-
----
-
 **🚀 Features:**
 Data Cleaning and Preprocessing using Pandas & NumPy.
 
